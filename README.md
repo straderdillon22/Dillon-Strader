@@ -2,7 +2,11 @@
 
 ### Dillon Strader
 
+###360
+
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/rrpw3" ></script>
+
+This was the picture where we showed multiple copies of myself and my friend sitting there and acting a little weird like we are supposed to be!
 
 You can use the [editor on GitHub](https://github.com/straderdillon22/Dillon-Strader/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
