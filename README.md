@@ -12,3 +12,8 @@ This is my new portfolio where I will be putting all of my 360 degree pictures t
 This was the picture where we showed multiple copies of myself and my friend sitting there and acting a little weird like we are supposed to be!
 
 
+### Vizor
+
+<script src="//patches.vizor.io/scripts/embed.js" data-vizorurl="//patches.vizor.io/embed/deactivateddillon/couple-trapped-in-grid-room-for-eternity-copy" ></script>
+
+This is the project of animation that i created.
