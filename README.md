@@ -16,4 +16,6 @@ This was the picture where we showed multiple copies of myself and my friend sit
 
 <script src="//patches.vizor.io/scripts/embed.js" data-vizorurl="//patches.vizor.io/embed/deactivateddillon/couple-trapped-in-grid-room-for-eternity-copy" ></script>
 
-This is the project of animation that i created.
+This is the project of animation that I created to show an example of a storyscape. A storyscape is an interactive 360 degree story. Also in the corner of the room there is God so look for that.
+
+# -Dillon Strader
